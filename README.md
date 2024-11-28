@@ -1,1 +1,1 @@
-
+This project is a banking app which allows users to create an account, log in to view their account, transfer money between current and savings accounts, and send money to an account associated with another unique user.
